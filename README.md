@@ -6,10 +6,7 @@ It connects to a MongoDB database where sellers post pet information and users c
 
 ---
 
-## 🔗 Live Demo (Optional)
-> Add your deployed project link here (Render, Vercel, etc.)
 
----
 
 ## 🚀 Features
 
