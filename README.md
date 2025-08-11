@@ -1,4 +1,4 @@
-# 🐾 Pet Adoption & Selling Platform
+# 🐾 Pet Adoption & Selling Platfor
 
 A full-stack web application that helps users **adopt or buy pets**, post their own **pet listings**, and explore **nearby pet shops**. It provides a seamless experience for both **buyers and sellers**, with intelligent assistance and verified documentation.
 
